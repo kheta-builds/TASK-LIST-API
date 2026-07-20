@@ -67,11 +67,6 @@ HTTP/1.1 201 Created
 ## Swagger UI
 
 A screenshot of the Swagger UI is shown below.
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4b10bfa8-629b-44b2-8eec-23d0615fe34f" />
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1e313eac-dab5-47f7-b3a5-b20d6964388c" />
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6ca67409-5b48-49fe-84f8-e74418646e7b" />
 
 
 ## Author
